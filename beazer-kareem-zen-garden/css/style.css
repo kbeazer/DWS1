@@ -1,0 +1,28 @@
+h1 {
+	color: #1d2828;
+	background-color: #93c1fb;
+	font-size: 3em;
+	font-family: Tahoma, Arial, sans-serif;
+	padding: 5px; 
+	margin: 0;
+}
+
+p {
+	color: #938964;
+	line-height: 1.5;
+}
+
+h2 {
+	color: DarkCyan;
+	font-weight: normal;
+	border-bottom: 2px solid DarkCyan;
+}
+
+h2 a {
+	color: #14aef6;
+}
+
+ul {
+	color: #1d2828;
+}
+
