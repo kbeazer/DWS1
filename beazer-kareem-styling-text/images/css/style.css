@@ -1,0 +1,15 @@
+body {
+	background-color: #573800;	
+}
+
+h1 {
+	background-color: rgb(64,46,0);
+	color: rgba(255,255,255,.6); 
+}
+
+figcaption {
+	background-color: rgb(127,91,0);
+	color: rgba(255,255,255,.4);   		 
+}
+
+/* I got my colors from Adobe Kuler */
