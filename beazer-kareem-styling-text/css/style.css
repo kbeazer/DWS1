@@ -9,18 +9,22 @@ h1 {
 	font-size: 3em;
 	font-weight: bold;
 	font-style: italic;
-	
-	 
+	letter-spacing: 2px; 
 }
 
 h2 {	
 	background-color: rgb(127,91,0);
 	color: rgba(255,255,255,.4); 
+	font-weight: bold;
+	text-transform: uppercase;
 }
 
 p {
 	background-color: #d18600;
 	color: #915d00;
+	font-family: arial, sans-serif;
+	text-indent: 50px;
+	line-height: 1.5px;	
 }
 
 ul {
@@ -34,7 +38,4 @@ ul {
 
 
 
-text-transform
-line-height
-letter-spacing or word-spacing
-text-align or text-indent
+
