@@ -33,6 +33,10 @@ ul {
 	background-color: rgb(127,91,0);
 	color: blue; 	
 }
+
+a:hover {
+	color: red;
+}
  /* I got my colors from Adobe Kuler */
  
 
