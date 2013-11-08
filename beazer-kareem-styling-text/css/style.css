@@ -1,0 +1,40 @@
+body {
+	background-color: #573800;	
+}
+
+h1 {
+	background-color: rgb(64,46,0);
+	color: rgba(255,255,255,.6);
+	font-family: arial, sans-serif;
+	font-size: 3em;
+	font-weight: bold;
+	font-style: italic;
+	
+	 
+}
+
+h2 {	
+	background-color: rgb(127,91,0);
+	color: rgba(255,255,255,.4); 
+}
+
+p {
+	background-color: #d18600;
+	color: #915d00;
+}
+
+ul {
+	background-color: rgb(127,91,0);
+	color: blue; 	
+}
+ /* I got my colors from Adobe Kuler */
+ 
+
+
+
+
+
+text-transform
+line-height
+letter-spacing or word-spacing
+text-align or text-indent
