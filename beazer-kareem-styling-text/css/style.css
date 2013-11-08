@@ -5,11 +5,12 @@ body {
 h1 {
 	background-color: rgb(64,46,0);
 	color: rgba(255,255,255,.6);
-	font-family: arial, sans-serif;
+	font-family: "Share Tech", arial, sans-serif;
 	font-size: 3em;
 	font-weight: bold;
 	font-style: italic;
 	letter-spacing: 2px; 
+	text-shadow: -5px -5px 12px #969696;
 }
 
 h2 {	
@@ -17,14 +18,15 @@ h2 {
 	color: rgba(255,255,255,.4); 
 	font-weight: bold;
 	text-transform: uppercase;
+	letter-spacing: 2px;
+	text-shadow: -5px -5px 12px #969696;
 }
 
 p {
 	background-color: #d18600;
 	color: #915d00;
-	font-family: arial, sans-serif;
-	text-indent: 50px;
-		
+	font-family: "Share Tech", arial, sans-serif;
+	text-indent: 50px;	
 }
 
 ul {
