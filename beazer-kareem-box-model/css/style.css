@@ -33,7 +33,12 @@ h1 {
 	text-shadow: -5px -5px 10px #969696;
 }
 
-h2 {	
+h2 {
+	width: 800px;
+	height: auto;
+	border: 1px solid black;
+	margin-left: auto;
+	margin-right: auto;	
 	background-color: rgb(127,91,0);
 	color: rgba(255,255,255,.4); 
 	font-weight: bold;
