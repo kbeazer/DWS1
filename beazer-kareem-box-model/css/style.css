@@ -49,6 +49,7 @@ p {
 	border: 1px solid black;
 	margin-left: auto;
 	margin-right: auto;
+	padding:20px;
 	background-color: #d18600;
 	color: #915d00;
 	font-family: "Share Tech", arial, sans-serif;
@@ -57,10 +58,11 @@ p {
 
 ul {
 	width: 800px;
-	height: 20px;
+	height: auto;
 	border: 1px solid black;
 	margin-left: auto;
 	margin-right: auto;
+	padding:20px;
 	list-style: square;
 	background-color: rgb(127,91,0);
 	color: blue; 		
