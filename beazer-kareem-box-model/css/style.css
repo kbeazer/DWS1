@@ -9,6 +9,8 @@ body {
 	margin: 0;
 	padding:20px;
 	list-style: none;
+	text-align: center;
+	font-size: 2em;
 }
 
 li {	
