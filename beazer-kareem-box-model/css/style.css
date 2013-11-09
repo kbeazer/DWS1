@@ -2,6 +2,11 @@ body {
 	background-color: #573800;	
 }
 
+#globalNav {
+	list-style: none;
+	border: 1px solid black;
+}
+
 h1 {
 	background-color: rgb(64,46,0);
 	color: rgba(255,255,255,.6);
