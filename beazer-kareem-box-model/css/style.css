@@ -6,7 +6,7 @@ body {
 	width: 800px;
 	height: 20px;
 	border: 1px solid black;
-	margin: 0 center;
+	margin: 0;
 	padding:20px;
 	list-style: none;
 	text-align: center;
@@ -38,6 +38,7 @@ h2 {
 	font-weight: bold;
 	text-transform: uppercase;
 	letter-spacing: 2px;
+	text-align: center;
 	text-shadow: -5px -5px 12px #969696;
 }
 
