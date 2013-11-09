@@ -47,6 +47,8 @@ p {
 	width: 800px;
 	height: 20px;
 	border: 1px solid black;
+	margin-left: auto;
+	margin-right: auto;
 	background-color: #d18600;
 	color: #915d00;
 	font-family: "Share Tech", arial, sans-serif;
@@ -57,6 +59,8 @@ ul {
 	width: 800px;
 	height: 20px;
 	border: 1px solid black;
+	margin-left: auto;
+	margin-right: auto;
 	list-style: square;
 	background-color: rgb(127,91,0);
 	color: blue; 		
