@@ -3,17 +3,16 @@ body {
 }
 
 #globalNav {
-	list-style: none;
 	width: 350px;
 	height: 100px;
 	border: 1px solid black;
-	margin: 1em 1.5em 1em 1.5em;
-	padding: 1em 1.5em 1em 1.5em;
+	margin: 0;
+	padding:0;
+	list-style: none;
 }
 
 #globalNav li {	
-	display: inline;
-	
+	display: inline;	
 }
 
 h1 {
