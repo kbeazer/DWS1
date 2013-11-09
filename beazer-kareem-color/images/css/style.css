@@ -7,6 +7,21 @@ h1 {
 	color: rgba(255,255,255,.6); 
 }
 
+h2 {	
+	background-color: rgb(127,91,0);
+	color: rgba(255,255,255,.4); 
+}
+
+p {
+	background-color: #d18600;
+	color: #915d00;
+}
+
+ul {
+	background-color: rgb(127,91,0);
+	color: blue; 	
+}
+
 figcaption {
 	background-color: rgb(127,91,0);
 	color: rgba(255,255,255,.4);   		 
