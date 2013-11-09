@@ -3,7 +3,7 @@ body {
 }
 
 #globalNav {
-	width: 350px;
+	width: 800px;
 	height: 20px;
 	border: 1px solid black;
 	margin: 0;
@@ -11,7 +11,7 @@ body {
 	list-style: none;
 	text-align: center;
 	font-family: arial, sans-serif;
-	font-size: 2em;
+	font-size: 1em;
 }
 
 li {	
