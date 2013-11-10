@@ -1,5 +1,5 @@
-Styling text github page
-https://github.com/kbeazer/DWS1/blob/gh-pages/beazer-kareem-styling-text/styling-text.html
+Box-Model github page
+https://github.com/kbeazer/DWS1/blob/gh-pages/beazer-kareem-box-model/box-model.html
 
-Styling text webpage
-kbeazer.github.com/DWS1/beazer-kareem-styling-text/styling-text.html
+Box-Model webpage
+http://kbeazer.github.io/DWS1/beazer-kareem-box-model/box-model.html
