@@ -1,0 +1,177 @@
+body {
+	background-color: #573800;
+	margin:0 auto;
+	width:800px;
+	box-shadow: 10px 10px 5px #888888;
+}
+
+#description {
+	width: 215px;
+	margin: 0 auto;
+	padding: 20px;
+	border: 1px solid black;
+	border-radius:5px;
+	background-color: rgb(64,46,0);
+	color: rgba(255,255,255,.4); 
+	list-style: none;
+	text-transform: uppercase;
+	text-decoration: none;
+	text-align: center;
+	font-family: arial, sans-serif;
+	font-size: 18px;
+	letter-spacing: 2px;
+	text-shadow: -5px -5px 12px #969696;
+	float: left;
+}
+
+#housing {
+	width: 215px;
+	margin: 0 auto;
+	padding: 20px;
+	border: 1px solid black;
+	border-radius:5px;
+	background-color: rgb(64,46,0);
+	color: rgba(255,255,255,.4); 
+	list-style: none;
+	text-transform: uppercase;
+	text-decoration: none;
+	text-align: center;
+	font-family: arial, sans-serif;
+	font-size: 18px;
+	letter-spacing: 2px;
+	text-shadow: -5px -5px 12px #969696;
+	float: left;
+}
+
+#diet {
+	width: 215px;
+	margin: 0 auto;
+	padding: 20px;
+	border: 1px solid black;
+	border-radius:5px;
+	background-color: rgb(64,46,0);
+	color: rgba(255,255,255,.4); 
+	list-style: none;
+	text-transform: uppercase;
+	text-decoration: none;
+	text-align: center;
+	font-family: arial, sans-serif;
+	font-size: 18px;
+	letter-spacing: 2px;
+	text-shadow: -5px -5px 12px #969696;
+	float: left;
+}
+
+.description {
+	float: left;
+	margin: 0px 10px 0px 10x;
+	
+}
+
+.housing {
+	float: left;
+}
+
+.diet {
+	float: left;
+}
+
+.globalNav {
+	border: 1px solid black;
+	border-radius: 5px;
+	padding: 11.5px;
+	margin: 0;
+	list-style: none;
+	text-align: center;
+	background-color: rgb(127,91,0);
+	color: blue;
+	box-shadow: 10px 10px 5px rgb(64,46,0);
+	overflow: hidden;	
+}
+
+.globalNav li {	
+	display: inline;
+	text-align: center;
+	box-align: center; 	
+}
+
+
+h1 {
+	background-color: rgb(64,46,0);
+	color: rgba(255,255,255,.6);
+	font-family: "Share Tech", arial, sans-serif;
+	font-size: 3em;
+	margin:0;
+	font-weight: bold;
+	font-style: italic;
+	letter-spacing: 2px;
+	text-align: center;
+	text-transform: uppercase; 
+	text-shadow: -5px -5px 20px #969696;
+}
+
+h2 {
+	width: 215px;
+	border: 1px solid black;
+	border-radius: 5px;
+	padding:20px;
+	margin:0;	
+	background-color: rgb(64,46,0);
+	color: rgba(255,255,255,.4); 
+	font-weight: bold;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	text-align: center;
+	text-shadow: -5px -5px 12px #969696;
+}
+
+p {
+	width: 215px;
+	border: 1px solid black;
+	border-radius: 5px;
+	padding:20px;
+	margin:0;
+	background-color: #d18600;
+	color: #915d00;
+	font-family: "Share Tech", arial, sans-serif;
+	text-indent: 50px;	
+	box-shadow: 10px 10px 5px rgb(64,46,0); 
+}
+
+ul {
+	border: 1px solid black;
+	border-radius: 5px;
+	padding:20px;
+	margin:0;
+	list-style: square;
+	background-color: rgb(64,46,0);
+	color: rgba(255,255,255,.6);
+	box-shadow: 10px 10px 5px rgb(64,46,0);
+	clear: left; 		
+}
+
+a:link {
+	color: rgba(255,255,255,.6);
+}
+
+a:hover {
+	color: red;
+}
+
+figcaption{
+	font-family: "Share Tech", arial, sans-serif;
+	font-size: 1em;
+	color: #915d00;
+}
+
+#home {
+	padding: 5px;
+}
+ /* I got my colors from Adobe Kuler */
+ 
+
+
+
+
+
+
