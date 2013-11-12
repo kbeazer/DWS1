@@ -1,14 +1,14 @@
 body {
 	background-color: #573800;
 	margin:0 auto;
-	width:800px;
+	width:90%;
 	box-shadow: 10px 10px 5px #888888;
 }
 
 #description {
-	width: 215px;
+	width: 29%; /* 215px originally */
 	margin: 0 auto;
-	padding: 20px;
+	padding: 1.9%;
 	border: 1px solid black;
 	border-radius:5px;
 	background-color: rgb(64,46,0);
@@ -18,16 +18,16 @@ body {
 	text-decoration: none;
 	text-align: center;
 	font-family: arial, sans-serif;
-	font-size: 18px;
+	font-size: 1.125em;
 	letter-spacing: 2px;
-	text-shadow: -5px -5px 12px #969696;
+	text-shadow: -5px -5px 20px #969696;
 	float: left;
 }
 
 #housing {
-	width: 215px;
+	width: 29%;
 	margin: 0 auto;
-	padding: 20px;
+	padding: 1.9%;
 	border: 1px solid black;
 	border-radius:5px;
 	background-color: rgb(64,46,0);
@@ -37,16 +37,16 @@ body {
 	text-decoration: none;
 	text-align: center;
 	font-family: arial, sans-serif;
-	font-size: 18px;
+	font-size: 1.125em;
 	letter-spacing: 2px;
 	text-shadow: -5px -5px 12px #969696;
 	float: left;
 }
 
 #diet {
-	width: 215px;
+	width: 29%;
 	margin: 0 auto;
-	padding: 20px;
+	padding: 1.9%;
 	border: 1px solid black;
 	border-radius:5px;
 	background-color: rgb(64,46,0);
@@ -56,7 +56,7 @@ body {
 	text-decoration: none;
 	text-align: center;
 	font-family: arial, sans-serif;
-	font-size: 18px;
+	font-size: 1.125em;
 	letter-spacing: 2px;
 	text-shadow: -5px -5px 12px #969696;
 	float: left;
@@ -79,7 +79,6 @@ body {
 .globalNav {
 	border: 1px solid black;
 	border-radius: 5px;
-	padding: 11.5px;
 	margin: 0;
 	list-style: none;
 	text-align: center;
@@ -126,10 +125,10 @@ h2 {
 }
 
 p {
-	width: 215px;
+	width: 29%;
 	border: 1px solid black;
 	border-radius: 5px;
-	padding:20px;
+	padding: 1.9%;
 	margin:0;
 	background-color: #d18600;
 	color: #915d00;
@@ -160,12 +159,12 @@ a:hover {
 
 figcaption{
 	font-family: "Share Tech", arial, sans-serif;
-	font-size: 1em;
+	font-size: 1.125em;
 	color: #915d00;
 }
 
 #home {
-	padding: 5px;
+	padding: .5%;
 }
  /* I got my colors from Adobe Kuler */
  

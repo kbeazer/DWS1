@@ -1,0 +1,5 @@
+Fixed html github page
+https://github.com/kbeazer/DWS1/blob/gh-pages/beazer-kareem-layout-fixed/fixed.html
+
+Fixed html webpage
+kbeazer.github.com/DWS1/beazer-kareem-layout-fixed/fixed.html
