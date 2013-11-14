@@ -97,6 +97,8 @@ body {
 
 h1 {
 	background-color: rgb(64,46,0);
+	border: 1px solid black;
+	border-radius: 5px;
 	color: rgba(255,255,255,.6);
 	font-family: "Share Tech", arial, sans-serif;
 	font-size: 3em;
@@ -107,6 +109,7 @@ h1 {
 	text-align: center;
 	text-transform: uppercase; 
 	text-shadow: -5px -5px 20px #969696;
+	box-shadow: 10px 10px 5px rgb(64,46,0);
 }
 
 h2 {
@@ -144,7 +147,7 @@ ul {
 	padding:20px;
 	margin:0;
 	list-style: square;
-	background-color: rgb(64,46,0);
+	background-color: #d18600;
 	color: rgba(255,255,255,.6);
 	box-shadow: 10px 10px 5px rgb(64,46,0);
 	clear: left; 		
