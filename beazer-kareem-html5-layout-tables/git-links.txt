@@ -1,5 +1,5 @@
-Backgrounds github page
-https://github.com/kbeazer/DWS1/blob/gh-pages/beazer-kareem-backgrounds/backgrounds.html
+Html5 Layout github page
+https://github.com/kbeazer/DWS1/blob/gh-pages/beazer-kareem-html5-layout-tables/html5-layout-tables.html
 
-Backgrounds webpage
-kbeazer.github.com/DWS1/beazer-kareem-backgrounds/backgrounds.html
+Html5 Layout webpage
+kbeazer.github.com/DWS1/beazer-kareem-html5-layout-tables/html5-layout-tables.html
