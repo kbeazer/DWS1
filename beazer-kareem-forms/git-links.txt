@@ -1,5 +1,5 @@
-Html5 Layout github page
-https://github.com/kbeazer/DWS1/blob/gh-pages/beazer-kareem-html5-layout-tables/html5-layout-tables.html
+Forms github page
+https://github.com/kbeazer/DWS1/blob/gh-pages/beazer-kareem-forms/forms.html
 
 Html5 Layout webpage
-kbeazer.github.com/DWS1/beazer-kareem-html5-layout-tables/html5-layout-tables.html
+kbeazer.github.com/DWS1/beazer-kareem-forms/forms.html
